@@ -8,7 +8,8 @@
   <a href="https://openhipe.github.io">Website</a> ·
   <a href="https://openhipe.github.io/vision">Vision</a> ·
   <a href="https://openhipe.github.io/publication">Publications</a> ·
-  <a href="https://openhipe.github.io/news">News</a>
+  <a href="https://openhipe.github.io/news">News</a> ·
+  <a href="mailto:openhipe@googlegroups.com">Email</a>
 </p>
 
 OpenHIPE is an open-source ecosystem for evaluating XR and robotic systems with people in mind. We build shared tools to capture sensor data, run repeatable experiments, and share results across research communities.
@@ -32,4 +33,4 @@ See all publications on our [website](https://openhipe.github.io/publication).
 
 ## Get involved
 
-We'll happily accept community contributions. Open an issue, share an idea, or send a pull request in any of our repositories.
+We'll happily accept community contributions. Open an issue, share an idea, or send a pull request in any of our repositories. For questions or collaborations, email us at [openhipe@googlegroups.com](mailto:openhipe@googlegroups.com).
